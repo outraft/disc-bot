@@ -1,6 +1,6 @@
 # disc-bot
 Discord bot for personal projects
-Supports:\n
+Supports:
 	*Database (MongoDB)*
 	*Timed Events*
 	*Some simple commands*
